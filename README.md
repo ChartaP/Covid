@@ -9,7 +9,7 @@ https://github.com/ChartaP/Covid/assets/20767587/83d9c4d3-259d-491c-aaf7-4ef83de
 시뮬레이션 FPS
 # 개요
 현시점 유행하고 있는 코로나 바이러스에서 아이디어를 얻어 구상하여 바이러스의 전파 과정과 방역 방법을 게임으로 만들었습니다<br>
-#조사	
+# 조사	
 ![image](https://github.com/ChartaP/Covid/assets/20767587/c5d20cda-d6b0-412d-99f4-04d6fab9244c)<br>
 ![image](https://github.com/ChartaP/Covid/assets/20767587/8196af42-c415-472f-8c7a-dc2f00967e22)<br>
 코로나19 자가격리 관련 국민인식조사 - 전문자료 | 정책DB | 대한민국 정책브리핑 (korea.kr)<br>
