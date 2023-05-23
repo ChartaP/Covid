@@ -28,7 +28,7 @@ WASD
 마우스 왼쪽
 ## 시민 격리
 F키
-#구성요소	 
+# 구성요소	 
 ## 맵
 ![image](https://github.com/ChartaP/Covid/assets/20767587/de5e6ae9-54a8-4266-8591-b55d9e9e73d0)<br>
 건물로 둘러싸인 정사각형 공간<br>
